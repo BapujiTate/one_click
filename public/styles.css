@@ -1,0 +1,64 @@
+body {
+  background-color: #c7ffff;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.header {
+  margin-top: 10px;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-size: 5rem;
+  color: #4a403a;
+  font-weight: bolder;
+  text-align: center;
+}
+h5 {
+  text-align: center;
+  font-style: italic;
+  color: #6c4a4a;
+}
+.nav-Style {
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+.navbar {
+  background-color: #7c84af;
+  font-weight: bold;
+  font-size: 20px;
+}
+.card {
+  background: #ffffff96;
+  border-radius: 10px;
+  padding: 50px;
+  box-shadow: 0 1px 5px rgb(138, 137, 137);
+}
+img {
+  width: 450px;
+  height: 300px;
+}
+.card-content {
+  margin-top: 10px;
+  font-size: 25px;
+}
+.card-content p {
+  margin: 0;
+}
+.StylePtag {
+  font-size: 25px;
+}
+.footer {
+  background-color: rgb(85, 83, 83);
+  color: #ffffff;
+}
+.footer p {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.footer-div {
+  padding: 30px;
+}
+.footer i {
+  padding: 5px, 10px;
+}
